@@ -74,4 +74,4 @@ burgerr@cput.ac.za
 
 ## Mock Interview Video
 
-(Add your video link here)
+https://drive.google.com/file/d/1XuDLBIevYBf9OG5OjBf-fyPVQYfyVJkg/view?usp=drive_link
