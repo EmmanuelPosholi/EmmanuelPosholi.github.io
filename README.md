@@ -29,18 +29,21 @@ With strong communication skills, a willingness to learn, and a love for tech, I
 
 ## Education
 
+### Hoërskool Stilfontein High School  
+Bachelor’s Degree Pass  
+2018 – 2021 
+
+### Higher Certificate in ICT  
+Cape Peninsula University of Technology  
+2022 – 2023 
+
 ### Diploma in Information and Communication Technology  
 Cape Peninsula University of Technology  
 2023 – Present  
 
-### Higher Certificate in ICT  
-Cape Peninsula University of Technology  
-2022 – 2023  
+ 
 
-### Hoërskool Stilfontein High School  
-Bachelor’s Degree Pass  
-2018 – 2021  
-
+ 
 ---
 
 ## Activities and Interests
