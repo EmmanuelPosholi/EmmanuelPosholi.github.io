@@ -77,6 +77,12 @@ burgerr@cput.ac.za
 
 ## Mock Interview Video
 [Watch my Mock Interview Video]
-https://github.com/user-attachments/assets/a5ba2d05-ea10-4e94-a746-3e513d60c6b4
+<h2>Mock Interview Video</h2>
+
+<iframe width="360" height="640"
+src="https://www.youtube.com/embed/bHDXWDdjQsk"
+frameborder="0"
+allowfullscreen>
+</iframe>
 
 
