@@ -75,8 +75,7 @@ burgerr@cput.ac.za
 
 ---
 
-## Mock Interview Video
-[Watch my Mock Interview Video]
+
 <h2>Mock Interview Video</h2>
 
 <iframe width="360" height="640"
