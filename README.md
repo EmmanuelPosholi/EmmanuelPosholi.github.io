@@ -97,7 +97,7 @@ allowfullscreen>
 
 ---
 
-## Reflection Coding In Markdown
+## Reflection On Coding In Markdown
 
 I was quite concerned when I needed to write my CV in GitHub in Markdown, as I had never written in Markdown. The situation was that I had to write my CV in markdown and publish it as it was part of my e-portfolio on GitHub. My assignment was to effectively code my complete CV with Markdown syntax, headings, lists, links and formatting without errors.
 
@@ -111,7 +111,7 @@ Because I was overthinking so much, I ended up doing many takes before I felt ev
 
 In the end, I was satisfied with the final version, and I was able to include it in my e-portfolio. Even though the mock interview was the hardest part of the whole project, pushing through all those takes taught me that overthinking only makes things harder, and persistence pays off.
 
-## Reflection on Github Pages
+## Reflection On Github Pages
 
 So I had to use GitHub Pages for my e‑portfolio, and it was not my first time using GitHub, but it was my first time using GitHub Pages, and I found it quite confusing. I was supposed to deploy my e-portfolio on GitHub Pages, and my e-portfolio consisted of a CV and a mock interview. Initially, I had no idea how to use GitHub Pages since it was the first time I had ever done so. I was confused in the entire process, and I was not even aware of where to begin. 
 
