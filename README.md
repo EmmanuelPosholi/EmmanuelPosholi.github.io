@@ -2,6 +2,8 @@
 
 # Emmanuel Posholi
 
+# Contact Details
+
 51 Kitchener Street, Parow, 7500  
 061 852 5224  
 emmanuelposholi12@gmail.com  
