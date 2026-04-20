@@ -1,6 +1,5 @@
 # EmmanuelPosholi-Portfolio
 
-# Emmanuel Posholi
 
 # Contact Details
 
