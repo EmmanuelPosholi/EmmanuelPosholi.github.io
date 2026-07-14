@@ -3,7 +3,7 @@
 
 # Contact Details
 
-51 Kitchener Street, Parow, 7500  
+267 Victoria Road, Salt River, Cape Town 
 061 852 5224  
 emmanuelposholi12@gmail.com  
 
